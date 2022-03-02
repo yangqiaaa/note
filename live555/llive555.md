@@ -1,1 +1,13 @@
-# download
+# 1 download
+[code]()
+## git
+`git clone https://github.com/xanview/live555`
+# 2 build
+```
+cd ./live555
+# configure compilation platform
+./genMakefiles linux
+# build
+make
+# run bin /live555/testProgs
+```
