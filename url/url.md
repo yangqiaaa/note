@@ -2,11 +2,11 @@
 this is url md
 
 
-| id | url                                            | explain |
-|----|------------------------------------------------|---------|
-| 1  | [x86dbg](https://github.com/x64dbg/x64dbg)     | 3       |
-| 2  | [strcpy](https://github.com/Genymobile/scrcpy) | 2       |
-| 1  | [libarchive](https://github.com/libarchive/libarchive)                                           | 2       |
+| id | url                                                    | explain |
+|----|--------------------------------------------------------|---------|
+| 1  | [x86dbg](https://github.com/x64dbg/x64dbg)             | 3       |
+| 2  | [strcpy](https://github.com/Genymobile/scrcpy)         | 2       |
+| 1  | [libarchive](https://github.com/libarchive/libarchive) | 2       |
 
 https://github.com/immortalwrt/immortalwrt
 
