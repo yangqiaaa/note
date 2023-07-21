@@ -27,3 +27,18 @@ https://github.com/micropython/micropython
 https://github.com/espeak-ng/espeak-ng
 
 https://github.com/glfw/glfw
+
+https://github.com/iovisor/bcc
+
+https://github.com/libgit2/libgit2
+
+https://github.com/OnionUI/Onion
+
+https://github.com/citusdata/citus
+
+https://github.com/Meituan-Dianping/Logan
+
+https://github.com/FreeRDP/FreeRDP
+
+https://github.com/Azure/azure-iot-sdk-c
+
